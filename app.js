@@ -1,8 +1,6 @@
-// ============================================
-// app.js - Sistema de Gestión de Notas
-// ============================================
 
-// ── DATOS BASE ───────────────────────────────
+// app.js - Sistema de Gestión de Notas
+
 const aprendices = [
   { nombre: "Ana",   nota: 4.5, programa: "ADSO" },
   { nombre: "Luis",  nota: 2.8, programa: "ADSO" },
